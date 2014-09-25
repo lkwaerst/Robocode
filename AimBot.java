@@ -1,5 +1,5 @@
 import robocode.*;
-
+//dette er en endring
 public class AimBot extends AdvancedRobot {
     
    public void run() {
